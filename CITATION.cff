@@ -1,0 +1,93 @@
+cff-version: 1.2.0
+message: "If you use this code or methodology, please cite it as below."
+type: software
+title: "Machine Learning Prediction of Health Problems from Agrochemical Exposure"
+version: 1.0
+date-released: 2025-01-01
+abstract: |
+  This repository contains code and analysis for predicting health risks in agricultural workers exposed to agrochemicals using supervised machine learning. The project compares 13 machine learning algorithms and identifies key risk factors using SHAP values and feature importance analysis. The best model (Random Forest) achieved F1-score of 0.95 in predicting perceived health problems.
+
+  The analysis uses data from the Irekani Environmental Health Project (n=127 agricultural workers from rural Michoacán, Mexico, 2021-2022). The repository includes model training, evaluation, interpretability analysis, and population segmentation through K-means clustering.
+
+authors:
+  - family-names: Yudico-Anaya
+    given-names: Luis José
+    orcid: "https://orcid.org/0000-0002-9304-4304"
+    email: ljyudico@ucemich.edu.mx
+    affiliation: "Universidad de La Ciénega del Estado de Michoacán de Ocampo"
+
+  - family-names: Martínez-del-Río
+    given-names: Ana Elisa
+    orcid: "https://orcid.org/0000-0001-7032-0796"
+    email: aemartinez@ucemich.edu.mx
+    affiliation: "Universidad de La Ciénega del Estado de Michoacán de Ocampo"
+
+contact:
+  - family-names: Yudico-Anaya
+    given-names: Luis José
+    email: ljyudico@ucemich.edu.mx
+
+keywords:
+  - machine learning
+  - random forest
+  - health prediction
+  - agrochemicals
+  - pesticides
+  - occupational health
+  - SHAP
+  - feature importance
+  - XGBoost
+  - supervised learning
+  - citizen science
+  - environmental health
+  - Mexico
+  - agricultural workers
+
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+
+repository-code: "https://github.com/irekani-environmental-health/agrochemical-health-ml-prediction"
+url: "https://github.com/irekani-environmental-health/agrochemical-health-ml-prediction"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXX"
+    description: "Zenodo DOI (pending publication)"
+
+references:
+  - type: dataset
+    title: "Irekani Project: Agricultural Practices, Agrochemical Exposure, and Environmental Quality in Rural Michoacán, Mexico"
+    authors:
+      - family-names: Yudico-Anaya
+        given-names: Luis José
+      - family-names: Martínez-del-Río
+        given-names: Ana Elisa
+    year: 2025
+    publisher: "Zenodo"
+    doi: "10.5281/zenodo.XXXXXX"
+
+  - type: article
+    title: "Machine learning prediction of health problems from agrochemical exposure in agricultural workers"
+    authors:
+      - family-names: Yudico-Anaya
+        given-names: Luis José
+      - family-names: Martínez-del-Río
+        given-names: Ana Elisa
+    year: 2025
+    status: submitted
+    note: "Research article in peer review"
+
+preferred-citation:
+  type: software
+  title: "Machine Learning Prediction of Health Problems from Agrochemical Exposure"
+  authors:
+    - family-names: Yudico-Anaya
+      given-names: Luis José
+      orcid: "https://orcid.org/0000-0002-9304-4304"
+    - family-names: Martínez-del-Río
+      given-names: Ana Elisa
+      orcid: "https://orcid.org/0000-0001-7032-0796"
+  year: 2025
+  version: "1.0"
+  repository-code: "https://github.com/irekani-environmental-health/agrochemical-health-ml-prediction"
+  license: MIT
