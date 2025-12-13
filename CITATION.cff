@@ -12,7 +12,7 @@ abstract: |
 authors:
   - family-names: Yudico-Anaya
     given-names: Luis José
-    orcid: "https://orcid.org/0000-0002-9304-4304"
+    orcid: "https://orcid.org/0000-0002-7490-3304"
     email: ljyudico@ucemich.edu.mx
     affiliation: "Universidad de La Ciénega del Estado de Michoacán de Ocampo"
 
@@ -51,8 +51,8 @@ url: "https://github.com/irekani-environmental-health/agrochemical-health-ml-pre
 
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.XXXXXX"
-    description: "Zenodo DOI (pending publication)"
+    value: "10.5281/zenodo.17904176"
+    description: "Zenodo DOI for Irekani dataset"
 
 references:
   - type: dataset
@@ -64,7 +64,7 @@ references:
         given-names: Ana Elisa
     year: 2025
     publisher: "Zenodo"
-    doi: "10.5281/zenodo.XXXXXX"
+    doi: "10.5281/zenodo.17904176"
 
   - type: article
     title: "Machine learning prediction of health problems from agrochemical exposure in agricultural workers"
@@ -83,7 +83,7 @@ preferred-citation:
   authors:
     - family-names: Yudico-Anaya
       given-names: Luis José
-      orcid: "https://orcid.org/0000-0002-9304-4304"
+      orcid: "https://orcid.org/0000-0002-7490-3304"
     - family-names: Martínez-del-Río
       given-names: Ana Elisa
       orcid: "https://orcid.org/0000-0001-7032-0796"
