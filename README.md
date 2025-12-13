@@ -34,8 +34,12 @@ This repository contains the code and analysis for our research article investig
 - Health outcomes (perceived health problems)
 
 **Data Availability**: The dataset used in this study is available on Zenodo:
-- [Irekani ML Subset (n=127)](https://doi.org/10.5281/zenodo.XXXXXX) - CC BY 4.0 License
-- [Complete Dataset (n=288)](https://doi.org/10.5281/zenodo.XXXXXX) - CC BY 4.0 License
+- [Complete Irekani Dataset (n=288, 181 variables)](https://doi.org/10.5281/zenodo.17904176) - CC BY 4.0 License
+
+**Citation**:
+```
+Yudico Anaya, L. J., & Martinez-Del Rio, A. E. (2025). Agricultural Practices, Agrochemical Exposure, and Environmental Quality in Rural Communities of Michoacan, Mexico: Irekani Project Dataset (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17904176
+```
 
 **Note**: Data files are NOT included in this repository. Download from Zenodo links above.
 
